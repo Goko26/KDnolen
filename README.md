@@ -1,4 +1,4 @@
-# [Student Name]'s Digital Portfolio - [School Year]
+# [Goku26] Digital Portfolio - [School Year]
 
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
